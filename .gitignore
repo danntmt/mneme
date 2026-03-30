@@ -1,0 +1,29 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+data/
+
+# Env and secrets
+.env*
+
+# DB/data generated locally
+.mneme/
+*.sqlite*
+*.db
+
+# Logs and debug
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+
+# Coverage, build and temp outputs
+coverage/
+dist/
+tmp/
+test-results/
+
+# History or undo data
+.history

@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "mneme": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/mneme/apps/mcp/dist/index.js"
+      ]
+    }
+  }
+}
